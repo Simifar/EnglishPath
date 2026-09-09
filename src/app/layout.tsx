@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   metadataBase: siteUrl,
   title: { default: siteName, template: `%s — ${siteName}` },
   description: siteDescription,
+  icons: { icon: '/logo.svg', shortcut: '/logo.svg', apple: '/logo.svg' },
   alternates: { canonical: '/' },
   openGraph: { type: 'website', locale: 'ru_RU', siteName, title: siteName, description: siteDescription, url: '/' },
   twitter: { card: 'summary_large_image', title: siteName, description: siteDescription },

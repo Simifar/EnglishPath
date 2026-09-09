@@ -71,8 +71,9 @@
     @apply border-border outline-ring/50;
   }
   body {
-    @apply bg-background text-foreground antialiased;
+    @apply min-w-0 overflow-x-hidden bg-background text-foreground antialiased;
   }
+  input, select, textarea { font-size: 16px; }
   ::selection { @apply bg-primary/15 text-foreground; }
   a, button, input, select { @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background; }
 }

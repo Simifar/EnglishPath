@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
+import { withBasePath } from '@/lib/paths';
 import { siteDescription, siteName, siteUrl } from '@/lib/site';
 
 const geistSans = Geist({ variable: '--font-geist-sans', subsets: ['latin'], display: 'swap', preload: true });
@@ -10,7 +11,7 @@ export const metadata: Metadata = {
   metadataBase: siteUrl,
   title: { default: siteName, template: `%s — ${siteName}` },
   description: siteDescription,
-  icons: { icon: '/logo.svg', shortcut: '/logo.svg', apple: '/logo.svg' },
+  icons: { icon: withBasePath('/logo.svg'), shortcut: withBasePath('/logo.svg'), apple: withBasePath('/logo.svg') },
   alternates: { canonical: '/' },
   openGraph: { type: 'website', locale: 'ru_RU', siteName, title: siteName, description: siteDescription, url: '/' },
   twitter: { card: 'summary_large_image', title: siteName, description: siteDescription },

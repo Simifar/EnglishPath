@@ -1,0 +1,37 @@
+name: Исправление или новый материал
+description: Предложить правку каталога или легальный источник
+title: "[Контент]: "
+labels: [content]
+body:
+  - type: dropdown
+    id: change
+    attributes:
+      label: Тип предложения
+      options:
+        - Исправить существующую запись
+        - Добавить новый материал
+        - Сообщить о неработающей ссылке
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Официальный источник
+      description: Укажите страницу, по которой можно проверить сведения и законность материала.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Что следует изменить?
+      description: Добавьте факты, уровень, условия доступа и другую полезную информацию.
+    validations:
+      required: true
+  - type: checkboxes
+    id: legal
+    attributes:
+      label: Проверка источника
+      options:
+        - label: Ссылка ведёт на официальный или законно распространяемый источник, а не на копию учебника.
+          required: true

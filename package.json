@@ -2,6 +2,16 @@
   "name": "cortexmap",
   "version": "1.0.0",
   "private": true,
+  "description": "Русскоязычный статический справочник для самостоятельного изучения английского языка",
+  "license": "MIT",
+  "homepage": "https://simifar.github.io/EnglishPath/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Simifar/EnglishPath.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Simifar/EnglishPath/issues"
+  },
   "scripts": {
     "dev": "next dev -p 3000",
     "build": "next build && cp -R .next/static .next/standalone/.next/ && cp -R public .next/standalone/",

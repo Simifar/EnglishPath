@@ -1,0 +1,32 @@
+name: Сообщение об ошибке
+description: Сообщить о воспроизводимой проблеме на сайте
+title: "[Ошибка]: "
+labels: [bug]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Что произошло?
+      description: Опишите фактическое и ожидаемое поведение.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как воспроизвести?
+      placeholder: |
+        1. Открыть…
+        2. Выбрать…
+        3. Увидеть…
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Адрес страницы
+      placeholder: https://simifar.github.io/EnglishPath/...
+  - type: input
+    id: environment
+    attributes:
+      label: Браузер и устройство
+      placeholder: Firefox, Windows 11

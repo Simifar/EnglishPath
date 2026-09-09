@@ -19,7 +19,8 @@
     "jsx": "react-jsx",
     "incremental": true,
     "types": [
-      "next"
+      "next",
+      "node"
     ],
     "plugins": [
       {

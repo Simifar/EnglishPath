@@ -1,0 +1,2986 @@
+{
+  "levels": [
+    {
+      "id": "a1",
+      "slug": "a1",
+      "title": "A1",
+      "fullName": "Beginner / Элементарный",
+      "description": "Первые шаги в английском. Выучите базовые фразы, грамматику и алфавит. После этого уровня сможете представиться, задать простые вопросы и понимать медленную речь.",
+      "cefrLevels": [
+        "A1"
+      ],
+      "tags": [
+        "cefr",
+        "a1"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "duration": "2–3 месяца",
+      "color": "emerald",
+      "icon": "🌱",
+      "grammar": [
+        {
+          "id": "a1-g1",
+          "title": "Порядок слов в предложении",
+          "description": "Subject + Verb + Object (Подлежащее + Сказуемое + Дополнение)",
+          "details": [
+            "I like coffee.",
+            "She reads books.",
+            "We play football."
+          ],
+          "slug": "a1-g1",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-g2",
+          "title": "Глагол to be (am/is/are)",
+          "description": "Настоящее время глагола-связки",
+          "details": [
+            "I am a student.",
+            "She is happy.",
+            "They are from Russia."
+          ],
+          "slug": "a1-g2",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-g3",
+          "title": "Present Simple",
+          "description": "Регулярные действия и факты",
+          "details": [
+            "I work every day.",
+            "She likes music.",
+            "Do you speak English?"
+          ],
+          "slug": "a1-g3",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-g4",
+          "title": "Местоимения (I, you, he, she, it, we, they)",
+          "description": "Личные и притяжательные местоимения",
+          "details": [
+            "I → my",
+            "he → his",
+            "they → their"
+          ],
+          "slug": "a1-g4",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-g5",
+          "title": "Артикли (a/an, the)",
+          "description": "Определённый и неопределённый артикли",
+          "details": [
+            "a cat (какая-то кошка)",
+            "the sun (определённое солнце)",
+            "an apple (начинается с гласной)"
+          ],
+          "slug": "a1-g5",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-g6",
+          "title": "Простое прошедшее (was/were, Past Simple рег.)",
+          "description": "Базовое прошедшее время",
+          "details": [
+            "I was tired.",
+            "We were at home.",
+            "I played tennis yesterday."
+          ],
+          "slug": "a1-g6",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-g7",
+          "title": "Императив (повелительное наклонение)",
+          "description": "Приказы, просьбы, инструкции",
+          "details": [
+            "Open the door.",
+            "Don't run!",
+            "Please sit down."
+          ],
+          "slug": "a1-g7",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-g8",
+          "title": "There is / There are",
+          "description": "Указание на наличие чего-либо",
+          "details": [
+            "There is a book on the table.",
+            "There are many people here."
+          ],
+          "slug": "a1-g8",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "a1-v1",
+          "title": "Приветствия и знакомство",
+          "description": "Hello, Hi, Good morning, My name is..., Nice to meet you",
+          "slug": "a1-v1",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-v2",
+          "title": "Числа 1–1000, время, даты",
+          "description": "Основные числительные, как сказать время и дату",
+          "slug": "a1-v2",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-v3",
+          "title": "Семья и родственники",
+          "description": "Mother, father, sister, brother, husband, wife",
+          "slug": "a1-v3",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-v4",
+          "title": "Еда и напитки",
+          "description": "Bread, milk, water, coffee, apple, meat, vegetables",
+          "slug": "a1-v4",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-v5",
+          "title": "Цвета, дни недели, месяцы",
+          "description": "Red, blue, Monday, Tuesday, January, February",
+          "slug": "a1-v5",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-v6",
+          "title": "Бытовые предметы и помещения",
+          "description": "Kitchen, bedroom, table, chair, lamp, window",
+          "slug": "a1-v6",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "skills": [
+        {
+          "id": "a1-s1",
+          "title": "Понимание простых фраз",
+          "description": "Понимать медленную чёткую речь на бытовые темы",
+          "slug": "a1-s1",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-s2",
+          "title": "Заполнение анкет",
+          "description": "Уметь заполнять простые формы с личными данными",
+          "slug": "a1-s2",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a1-s3",
+          "title": "Короткие диалоги",
+          "description": "Спрашивать и отвечать на простые вопросы",
+          "slug": "a1-s3",
+          "cefrLevels": [
+            "A1"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "textbookIds": [
+        "a1-english-file-beginner",
+        "a1-face2face-elementary",
+        "a1-round-up-1-student-s-book",
+        "a1-streamline-english-departures"
+      ]
+    },
+    {
+      "id": "a2",
+      "slug": "a2",
+      "title": "A2",
+      "fullName": "Pre-Intermediate / Предпороговый",
+      "description": "Расширение словарного запаса и базовых грамматических структур. После этого уровня сможете общаться в путешествиях, описывать события и понимать простые тексты.",
+      "cefrLevels": [
+        "A2"
+      ],
+      "tags": [
+        "cefr",
+        "a2"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "duration": "3–4 месяца",
+      "color": "teal",
+      "icon": "🌿",
+      "grammar": [
+        {
+          "id": "a2-g1",
+          "title": "Present Continuous",
+          "description": "Действия, происходящие сейчас",
+          "details": [
+            "I am reading now.",
+            "She is cooking dinner.",
+            "Are they sleeping?"
+          ],
+          "slug": "a2-g1",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-g2",
+          "title": "Past Simple (правильные и неправильные)",
+          "description": "Завершённые действия в прошлом",
+          "details": [
+            "I went to school yesterday.",
+            "She didn't see the movie.",
+            "Did you call him?"
+          ],
+          "slug": "a2-g2",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-g3",
+          "title": "Future Simple (will / going to)",
+          "description": "Планы и обещания на будущее",
+          "details": [
+            "I will help you.",
+            "She is going to visit Paris.",
+            "It won't rain tomorrow."
+          ],
+          "slug": "a2-g3",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-g4",
+          "title": "Модальные глаголы (can, must, should)",
+          "description": "Возможность, обязанность, совет",
+          "details": [
+            "I can swim.",
+            "You must study.",
+            "You should see a doctor."
+          ],
+          "slug": "a2-g4",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-g5",
+          "title": "Сравнительная и превосходная степень",
+          "description": "Сравнение прилагательных",
+          "details": [
+            "bigger → the biggest",
+            "more beautiful → the most beautiful"
+          ],
+          "slug": "a2-g5",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-g6",
+          "title": "Исчисляемые и неисчисляемые существительные",
+          "description": "Much/many, a lot of, some/any",
+          "details": [
+            "How much money?",
+            "How many books?",
+            "I have some water."
+          ],
+          "slug": "a2-g6",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-g7",
+          "title": "Предлоги времени и места",
+          "description": "in, on, at, to, from, with",
+          "details": [
+            "in the morning, on Monday, at 5 o'clock",
+            "at home, in London, on the table"
+          ],
+          "slug": "a2-g7",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "a2-v1",
+          "title": "Путешествия и транспорт",
+          "description": "Airport, ticket, hotel, train station, passport, luggage",
+          "slug": "a2-v1",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-v2",
+          "title": "Здоровье и тело",
+          "description": "Headache, fever, appointment, pharmacy, prescription",
+          "slug": "a2-v2",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-v3",
+          "title": "Работа и профессии",
+          "description": "Office, salary, interview, CV, manager, employee",
+          "slug": "a2-v3",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-v4",
+          "title": "Покупки и магазины",
+          "description": "Price, discount, receipt, size, try on, cash or card",
+          "slug": "a2-v4",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-v5",
+          "title": "Хобби и свободное время",
+          "description": "Go swimming, play guitar, read books, watch movies, travel",
+          "slug": "a2-v5",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-v6",
+          "title": "Погода и природа",
+          "description": "Sunny, cloudy, rain, snow, temperature, forest, mountain",
+          "slug": "a2-v6",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "skills": [
+        {
+          "id": "a2-s1",
+          "title": "Короткие письма и сообщения",
+          "description": "Писать простые e-mail, открытки, сообщения",
+          "slug": "a2-s1",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-s2",
+          "title": "Разговоры в путешествии",
+          "description": "Спрашивать дорогу, заказывать еду, бронировать номер",
+          "slug": "a2-s2",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "a2-s3",
+          "title": "Понимание простых текстов",
+          "description": "Читать короткие статьи, объявления, инструкции",
+          "slug": "a2-s3",
+          "cefrLevels": [
+            "A2"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "textbookIds": [
+        "a2-english-file-pre-intermediate",
+        "a2-english-grammar-in-use-red-essential",
+        "a2-speakout-pre-intermediate"
+      ]
+    },
+    {
+      "id": "b1",
+      "slug": "b1",
+      "title": "B1",
+      "fullName": "Intermediate / Средний",
+      "description": "Уверенное общение на повседневные темы. После этого уровня сможете выражать мнение, описывать впечатления и понимать большинство текстов на знакомые темы.",
+      "cefrLevels": [
+        "B1"
+      ],
+      "tags": [
+        "cefr",
+        "b1"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "duration": "4–6 месяцев",
+      "color": "amber",
+      "icon": "🌳",
+      "grammar": [
+        {
+          "id": "b1-g1",
+          "title": "Present Perfect",
+          "description": "Опыт и результат к настоящему моменту",
+          "details": [
+            "I have been to London.",
+            "She has already finished.",
+            "Have you ever tried sushi?"
+          ],
+          "slug": "b1-g1",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-g2",
+          "title": "Present Perfect vs Past Simple",
+          "description": "Разница между опытом и конкретным прошлым",
+          "details": [
+            "I have been to Paris (опыт) vs I went to Paris last year (факт)"
+          ],
+          "slug": "b1-g2",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-g3",
+          "title": "Условные предложения 1-го и 2-го типа",
+          "description": "Real и hypothetical условия",
+          "details": [
+            "If it rains, I will stay home. (1-й тип)",
+            "If I had money, I would buy a car. (2-й тип)"
+          ],
+          "slug": "b1-g3",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-g4",
+          "title": "Пассивный залог (Passive Voice)",
+          "description": "Действие совершается над предметом",
+          "details": [
+            "The book was written in 1990.",
+            "English is spoken worldwide.",
+            "The cake has been eaten."
+          ],
+          "slug": "b1-g4",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-g5",
+          "title": "Герундий и инфинитив",
+          "description": "Verb + -ing / Verb + to + infinitive",
+          "details": [
+            "I enjoy reading.",
+            "I want to travel.",
+            "She decided to move."
+          ],
+          "slug": "b1-g5",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-g6",
+          "title": "Сложные предложения (although, because, if, when)",
+          "description": "Связующие слова и придаточные",
+          "details": [
+            "Although it was late, we kept working.",
+            "I called because I needed help."
+          ],
+          "slug": "b1-g6",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-g7",
+          "title": "Относительные местоимения (who, which, that, where)",
+          "description": "Определительные придаточные",
+          "details": [
+            "The man who called you is my uncle.",
+            "The book that I bought is great."
+          ],
+          "slug": "b1-g7",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "b1-v1",
+          "title": "Технологии и интернет",
+          "description": "Software, download, upload, password, account, social media",
+          "slug": "b1-v1",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-v2",
+          "title": "Образование и обучение",
+          "description": "Degree, scholarship, exam, assignment, lecture, campus",
+          "slug": "b1-v2",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-v3",
+          "title": "Культура и искусство",
+          "description": "Exhibition, performance, novel, masterpiece, genre, audience",
+          "slug": "b1-v3",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-v4",
+          "title": "Экология и окружающая среда",
+          "description": "Pollution, renewable energy, recycling, climate change, global warming",
+          "slug": "b1-v4",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-v5",
+          "title": "Эмоции и черты характера",
+          "description": "Ambitious, generous, anxious, confident, reliable, stubborn",
+          "slug": "b1-v5",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-v6",
+          "title": "Фразовые глаголы (базовый набор)",
+          "description": "give up, look forward to, take off, turn on, find out, make up",
+          "slug": "b1-v6",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "skills": [
+        {
+          "id": "b1-s1",
+          "title": "Выражение мнения",
+          "description": "In my opinion, I believe, I think that..., On the other hand",
+          "slug": "b1-s1",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-s2",
+          "title": "Понимание новостей и статей",
+          "description": "Читать адаптированные статьи и смотреть новости",
+          "slug": "b1-s2",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-s3",
+          "title": "Телефонные разговоры",
+          "description": "Уметь вести деловой и неформальный телефонный разговор",
+          "slug": "b1-s3",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b1-s4",
+          "title": "Написание эссе (базовое)",
+          "description": "Структура: введение, 2–3 абзаца, заключение",
+          "slug": "b1-s4",
+          "cefrLevels": [
+            "B1"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "textbookIds": [
+        "b1-english-grammar-in-use-blue",
+        "b1-english-file-intermediate",
+        "b1-vocabulary-in-use-intermediate",
+        "b1-outcomes-intermediate"
+      ]
+    },
+    {
+      "id": "b2",
+      "slug": "b2",
+      "title": "B2",
+      "fullName": "Upper-Intermediate / Выше среднего",
+      "description": "Свободное общение и понимание сложных текстов. После этого уровня сможете работать на английском, смотреть фильмы в оригинале и сдавать IELTS на 5.5–6.5.",
+      "cefrLevels": [
+        "B2"
+      ],
+      "tags": [
+        "cefr",
+        "b2"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "duration": "6–8 месяцев",
+      "color": "orange",
+      "icon": "🌟",
+      "grammar": [
+        {
+          "id": "b2-g1",
+          "title": "Past Perfect & Past Continuous",
+          "description": "Действия, предшествовавшие другим действиям в прошлом",
+          "details": [
+            "I had already eaten when she arrived.",
+            "I was reading when the phone rang."
+          ],
+          "slug": "b2-g1",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-g2",
+          "title": "Условные предложения 3-го типа и смешанные",
+          "description": "Нереальные условия в прошлом",
+          "details": [
+            "If I had studied harder, I would have passed. (3-й тип)",
+            "If I were you, I would have accepted. (смешанный)"
+          ],
+          "slug": "b2-g2",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-g3",
+          "title": "Сослагательное наклонение (Subjunctive)",
+          "description": "Wish, if only, it's time, would rather",
+          "details": [
+            "I wish I could fly.",
+            "If only I had known.",
+            "It's time you left."
+          ],
+          "slug": "b2-g3",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-g4",
+          "title": "Косвенная речь (Reported Speech)",
+          "description": "Передача чужих слов",
+          "details": [
+            "He said that he was tired.",
+            "She asked if I had seen the movie."
+          ],
+          "slug": "b2-g4",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-g5",
+          "title": "Сложные времена (Perfect Continuous)",
+          "description": "Длительность действия к определённому моменту",
+          "details": [
+            "I have been working for 3 hours.",
+            "She had been waiting before I came."
+          ],
+          "slug": "b2-g5",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-g6",
+          "title": "Модальные глаголы (deduction & speculation)",
+          "description": "Must have, can't have, might have, should have",
+          "details": [
+            "She must have forgotten.",
+            "He can't have said that.",
+            "You should have told me."
+          ],
+          "slug": "b2-g6",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "b2-v1",
+          "title": "Идиомы и устойчивые выражения",
+          "description": "Break the ice, hit the nail on the head, once in a blue moon",
+          "slug": "b2-v1",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-v2",
+          "title": "Коллокации (словосочетания)",
+          "description": "Make a decision (не do), heavy rain (не strong), take advantage of",
+          "slug": "b2-v2",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-v3",
+          "title": "Синонимы и антонимы (тонкие различия)",
+          "description": "Big vs huge vs enormous, sad vs upset vs depressed",
+          "slug": "b2-v3",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-v4",
+          "title": "Академическая лексика (AWL)",
+          "description": "Analyze, assess, contribute, significant, establish, method",
+          "slug": "b2-v4",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-v5",
+          "title": "Фразовые глаголы (продвинутый набор)",
+          "description": "Come across, put up with, look into, turn out, carry on, bring up",
+          "slug": "b2-v5",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "skills": [
+        {
+          "id": "b2-s1",
+          "title": "Аргументация и дискуссия",
+          "description": "Уметь спорить, соглашаться, возражать корректно",
+          "slug": "b2-s1",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-s2",
+          "title": "Письменные работы",
+          "description": "Официальные письма, отчёты, рецензии, эссе с аргументацией",
+          "slug": "b2-s2",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-s3",
+          "title": "Понимание фильмов и сериалов",
+          "description": "Смотреть фильмы с английскими субтитрами, понимать юмор",
+          "slug": "b2-s3",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "b2-s4",
+          "title": "Подготовка к IELTS/TOEFL (базовая)",
+          "description": "Знакомство с форматом экзаменов, тренировка типов заданий",
+          "slug": "b2-s4",
+          "cefrLevels": [
+            "B2"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "textbookIds": [
+        "b2-advanced-grammar-in-use",
+        "b2-english-collocations-in-use-intermediate",
+        "b2-ielts-trainer-b2",
+        "b2-english-pronunciation-in-use-intermediate"
+      ]
+    },
+    {
+      "id": "c1",
+      "slug": "c1",
+      "title": "C1",
+      "fullName": "Advanced / Продвинутый",
+      "description": "Свободное владение языком в профессиональной и академической среде. Смотрите фильмы без субтитров, читайте литературу в оригинале, сдавайте IELTS на 7.0–8.0.",
+      "cefrLevels": [
+        "C1"
+      ],
+      "tags": [
+        "cefr",
+        "c1"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "duration": "8–12 месяцев",
+      "color": "rose",
+      "icon": "🔥",
+      "grammar": [
+        {
+          "id": "c1-g1",
+          "title": "Инверсия (Inversion)",
+          "description": "Эмфатические конструкции с изменением порядка слов",
+          "details": [
+            "Never have I seen such beauty.",
+            "Not only did he win, but he broke the record."
+          ],
+          "slug": "c1-g1",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c1-g2",
+          "title": "Cleft-предложения (It is... that... / What... is...)",
+          "description": "Выделение части предложения для акцента",
+          "details": [
+            "It was John who broke the window.",
+            "What I need is a vacation."
+          ],
+          "slug": "c1-g2",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c1-g3",
+          "title": "Сложные модальные конструкции",
+          "description": "Needn't have, couldn't have, may/might well, is to",
+          "details": [
+            "You needn't have worried.",
+            "She is to arrive at 5.",
+            "He may well be right."
+          ],
+          "slug": "c1-g3",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c1-g4",
+          "title": "Партиципиальные и абсолютные конструкции",
+          "description": "Having done..., With the door open..., Generally speaking",
+          "details": [
+            "Having finished the work, she went home.",
+            "With the rain pouring down, we stayed inside."
+          ],
+          "slug": "c1-g4",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c1-g5",
+          "title": "Продвинутые относительные конструкции",
+          "description": "Which (вложенные предложения), what, whatever, no matter",
+          "details": [
+            "He passed the exam, which surprised everyone.",
+            "Whatever you do, don't give up."
+          ],
+          "slug": "c1-g5",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "c1-v1",
+          "title": "Академическая лексика (C1-AWL)",
+          "description": "Comprehensive, nevertheless, predominantly, facilitate, subsequent",
+          "slug": "c1-v1",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c1-v2",
+          "title": "Регистры речи (formal/informal/neutral)",
+          "description": "Commence vs start, purchase vs buy, insufficient vs not enough",
+          "slug": "c1-v2",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c1-v3",
+          "title": "Метафоры и образная лексика",
+          "description": "Fuel the debate, plant the seed, bridge the gap, pour cold water on",
+          "slug": "c1-v3",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c1-v4",
+          "title": "Латинские и греческие корни слов",
+          "description": "bene, mal, chron, graph, dict, spect, port, vid — для угадывания значений",
+          "slug": "c1-v4",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "skills": [
+        {
+          "id": "c1-s1",
+          "title": "Академическое письмо",
+          "description": "Research papers, literature reviews, abstracts, academic essays",
+          "slug": "c1-s1",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c1-s2",
+          "title": "Публичные выступления",
+          "description": "Презентации, доклады, дискуссии на профессиональные темы",
+          "slug": "c1-s2",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c1-s3",
+          "title": "Чтение оригинальной литературы",
+          "description": "Орвелл, Саллинджер, Кинг, Хоссеини — без адаптации",
+          "slug": "c1-s3",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c1-s4",
+          "title": "Сдача IELTS Academic 7.0+",
+          "description": "Полноценная подготовка ко всем частям экзамена",
+          "slug": "c1-s4",
+          "cefrLevels": [
+            "C1"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "textbookIds": [
+        "c1-advanced-grammar-in-use-book-with-answers",
+        "c1-english-idioms-in-use-advanced",
+        "c1-vocabulary-in-use-advanced",
+        "c1-objective-ielts-advanced"
+      ]
+    },
+    {
+      "id": "c2",
+      "slug": "c2",
+      "title": "C2",
+      "fullName": "Proficiency / Владение в совершенстве",
+      "description": "Близкий к уровню носителя языка. Понимаете все оттенки значения, шутки, сарказм, сленг. Пишете академические тексты и говорите на любые темы.",
+      "cefrLevels": [
+        "C2"
+      ],
+      "tags": [
+        "cefr",
+        "c2"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "duration": "12+ месяцев",
+      "color": "purple",
+      "icon": "👑",
+      "grammar": [
+        {
+          "id": "c2-g1",
+          "title": "Стилистические варианты и нюансы",
+          "description": "Тонкие различия между синонимичными конструкциями",
+          "details": [
+            "Should you need... (формально) vs If you need... (нейтрально)",
+            "Were he to arrive... (литературно)"
+          ],
+          "slug": "c2-g1",
+          "cefrLevels": [
+            "C2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c2-g2",
+          "title": "Устаревшие и книжные формы",
+          "description": "Hither, thence, forsooth, whereby, herein, aforesaid",
+          "slug": "c2-g2",
+          "cefrLevels": [
+            "C2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c2-g3",
+          "title": "Продвинутая пунктуация и синтаксис",
+          "description": "Тире, двоеточие, точка с запятой, парцелляция, многоуровневые предложения",
+          "slug": "c2-g3",
+          "cefrLevels": [
+            "C2"
+          ],
+          "tags": [
+            "грамматика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "c2-v1",
+          "title": "Сленг, неформализмы и региональные варианты",
+          "description": "Mate, bloke, reckon, dodgy (UK) / buddy, gonna, kinda, legit (US)",
+          "slug": "c2-v1",
+          "cefrLevels": [
+            "C2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c2-v2",
+          "title": "Редкая и специализированная лексика",
+          "description": "Юридическая, медицинская, техническая терминология на глубоком уровне",
+          "slug": "c2-v2",
+          "cefrLevels": [
+            "C2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c2-v3",
+          "title": "Этимология и словообразование",
+          "description": "Префиксы и суффиксы для самостоятельного создания слов",
+          "slug": "c2-v3",
+          "cefrLevels": [
+            "C2"
+          ],
+          "tags": [
+            "лексика"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "skills": [
+        {
+          "id": "c2-s1",
+          "title": "Научные публикации",
+          "description": "Писать и рецензировать научные статьи на английском",
+          "slug": "c2-s1",
+          "cefrLevels": [
+            "C2"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c2-s2",
+          "title": "Перевод и локализация",
+          "description": "Высококачественный перевод, адаптация текстов",
+          "slug": "c2-s2",
+          "cefrLevels": [
+            "C2"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c2-s3",
+          "title": "Преподавание английского",
+          "description": "Объяснять грамматику и помогать другим изучать язык",
+          "slug": "c2-s3",
+          "cefrLevels": [
+            "C2"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        },
+        {
+          "id": "c2-s4",
+          "title": "Креативное письмо",
+          "description": "Писать рассказы, стихи, сценарии на английском языке",
+          "slug": "c2-s4",
+          "cefrLevels": [
+            "C2"
+          ],
+          "tags": [
+            "навыки"
+          ],
+          "access": "free",
+          "officialUrl": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+          "linkCheckedAt": "2026-08-13",
+          "verifiedAt": "2026-08-13"
+        }
+      ],
+      "textbookIds": [
+        "c2-cambridge-english-proficiency-cpe-masterclass",
+        "c2-practical-english-usage",
+        "c2-the-cambridge-grammar-of-the-english-language"
+      ]
+    }
+  ],
+  "textbooks": [
+    {
+      "id": "a1-english-file-beginner",
+      "slug": "a1-english-file-beginner",
+      "title": "English File Beginner",
+      "description": "Идеальный старт: коммуникативный подход с множеством аудио и видео материалов.",
+      "cefrLevels": [
+        "A1"
+      ],
+      "tags": [
+        "Коммуникативный",
+        "Аудио",
+        "Видео"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.oup.com/elt/englishfile/",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Christina Latham-Koenig",
+        "Clive Oxenden"
+      ],
+      "publisher": "Oxford University Press",
+      "series": "English File",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Коммуникативный",
+        "Аудио",
+        "Видео"
+      ]
+    },
+    {
+      "id": "a1-face2face-elementary",
+      "slug": "a1-face2face-elementary",
+      "title": "Face2Face Elementary",
+      "description": "Пошаговая программа с фокусом на разговорную практику.",
+      "cefrLevels": [
+        "A1"
+      ],
+      "tags": [
+        "Разговорный",
+        "Пошаговый"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/face2face",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Chris Redston",
+        "Gillie Cunningham"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "Face2Face",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Разговорный",
+        "Пошаговый"
+      ]
+    },
+    {
+      "id": "a1-round-up-1-student-s-book",
+      "slug": "a1-round-up-1-student-s-book",
+      "title": "Round-Up 1 (Student's Book)",
+      "description": "Грамматика в игровой форме с красочными иллюстрациями. Отлично для самостоятельного изучения.",
+      "cefrLevels": [
+        "A1"
+      ],
+      "tags": [
+        "Грамматика",
+        "Самостоятельное"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.expresspublishing.co.uk/roundup",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Virginia Evans"
+      ],
+      "publisher": "Express Publishing",
+      "series": "Round-Up",
+      "format": "Student’s Book",
+      "purpose": [
+        "Грамматика",
+        "Самостоятельное"
+      ]
+    },
+    {
+      "id": "a1-streamline-english-departures",
+      "slug": "a1-streamline-english-departures",
+      "title": "Streamline English Departures",
+      "description": "Классический курс для начинающих с упором на повседневные ситуации.",
+      "cefrLevels": [
+        "A1"
+      ],
+      "tags": [
+        "Классика",
+        "Повседневный"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.oup.com/elt",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Bernard Hartley",
+        "Peter Viney"
+      ],
+      "publisher": "Oxford University Press",
+      "series": "Streamline English",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Классика",
+        "Повседневный"
+      ]
+    },
+    {
+      "id": "a2-english-file-pre-intermediate",
+      "slug": "a2-english-file-pre-intermediate",
+      "title": "English File Pre-Intermediate",
+      "description": "Продолжение популярной серии. Отличный баланс грамматики, лексики и общения.",
+      "cefrLevels": [
+        "A2"
+      ],
+      "tags": [
+        "Коммуникативный",
+        "Сбалансированный"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.oup.com/elt/englishfile/",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Christina Latham-Koenig",
+        "Clive Oxenden"
+      ],
+      "publisher": "Oxford University Press",
+      "series": "English File",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Коммуникативный",
+        "Сбалансированный"
+      ]
+    },
+    {
+      "id": "a2-english-grammar-in-use-red-essential",
+      "slug": "a2-english-grammar-in-use-red-essential",
+      "title": "English Grammar in Use (Red) — Essential",
+      "description": "Легендарный учебник грамматики. Теория слева — упражнения справа. Must-have!",
+      "cefrLevels": [
+        "A2"
+      ],
+      "tags": [
+        "Грамматика",
+        "Самостоятельное",
+        "Must-have"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/englishgrammarinuse",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Raymond Murphy"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "English Grammar in Use — Essential",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Грамматика",
+        "Самостоятельное",
+        "Must-have"
+      ]
+    },
+    {
+      "id": "a2-speakout-pre-intermediate",
+      "slug": "a2-speakout-pre-intermediate",
+      "title": "Speakout Pre-Intermediate",
+      "description": "Богатый медиа-контент с видео из BBC. Отличная разговорная практика.",
+      "cefrLevels": [
+        "A2"
+      ],
+      "tags": [
+        "Видео BBC",
+        "Разговорный"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.pearson.com/english/speakout",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Antonia Clare",
+        "J.J. Wilson"
+      ],
+      "publisher": "Pearson",
+      "series": "Speakout",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Видео BBC",
+        "Разговорный"
+      ]
+    },
+    {
+      "id": "b1-english-grammar-in-use-blue",
+      "slug": "b1-english-grammar-in-use-blue",
+      "title": "English Grammar in Use (Blue)",
+      "description": "Средний уровень легендарной серии. Незаменимый справочник для B1-B2.",
+      "cefrLevels": [
+        "B1"
+      ],
+      "tags": [
+        "Грамматика",
+        "Must-have",
+        "Самостоятельное"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/englishgrammarinuse",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Raymond Murphy"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "English Grammar in Use",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Грамматика",
+        "Must-have",
+        "Самостоятельное"
+      ]
+    },
+    {
+      "id": "b1-english-file-intermediate",
+      "slug": "b1-english-file-intermediate",
+      "title": "English File Intermediate",
+      "description": "Глубокое погружение в темы с яркими диалогами и актуальной лексикой.",
+      "cefrLevels": [
+        "B1"
+      ],
+      "tags": [
+        "Коммуникативный",
+        "Современный"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.oup.com/elt/englishfile/",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Christina Latham-Koenig",
+        "Clive Oxenden"
+      ],
+      "publisher": "Oxford University Press",
+      "series": "English File",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Коммуникативный",
+        "Современный"
+      ]
+    },
+    {
+      "id": "b1-vocabulary-in-use-intermediate",
+      "slug": "b1-vocabulary-in-use-intermediate",
+      "title": "Vocabulary in Use Intermediate",
+      "description": "Системная работа над словарным запасом по темам.",
+      "cefrLevels": [
+        "B1"
+      ],
+      "tags": [
+        "Лексика",
+        "По темам"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/vocabularyinuse",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Stuart Redman"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "Vocabulary in Use",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Лексика",
+        "По темам"
+      ]
+    },
+    {
+      "id": "b1-outcomes-intermediate",
+      "slug": "b1-outcomes-intermediate",
+      "title": "Outcomes Intermediate",
+      "description": "Лексический подход: учите язык в контексте реальных ситуаций.",
+      "cefrLevels": [
+        "B1"
+      ],
+      "tags": [
+        "Лексический подход",
+        "Контекст"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.eltoutcomes.com",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Hugh Dellar",
+        "Andrew Walkley"
+      ],
+      "publisher": "Издатель указан на официальной странице",
+      "series": "Outcomes",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Лексический подход",
+        "Контекст"
+      ]
+    },
+    {
+      "id": "b2-advanced-grammar-in-use",
+      "slug": "b2-advanced-grammar-in-use",
+      "title": "Advanced Grammar in Use",
+      "description": "Продвинутая грамматика для B2-C2. Детальное объяснение тонких нюансов.",
+      "cefrLevels": [
+        "B2"
+      ],
+      "tags": [
+        "Грамматика",
+        "Must-have"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/advancedgrammarinuse",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Martin Hewings"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "Advanced Grammar in Use",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Грамматика",
+        "Must-have"
+      ]
+    },
+    {
+      "id": "b2-english-collocations-in-use-intermediate",
+      "slug": "b2-english-collocations-in-use-intermediate",
+      "title": "English Collocations in Use (Intermediate)",
+      "description": "Лучший учебник по словосочетаниям. Делает речь естественной.",
+      "cefrLevels": [
+        "B2"
+      ],
+      "tags": [
+        "Коллокации",
+        "Лексика"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/collocationsinuse",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Michael McCarthy",
+        "Felicity O'Dell"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "English Collocations in Use",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Коллокации",
+        "Лексика"
+      ]
+    },
+    {
+      "id": "b2-ielts-trainer-b2",
+      "slug": "b2-ielts-trainer-b2",
+      "title": "IELTS Trainer (B2)",
+      "description": "Шесть полноценных тестов с практическими советами для подготовки к IELTS.",
+      "cefrLevels": [
+        "B2"
+      ],
+      "tags": [
+        "IELTS",
+        "Тесты",
+        "Подготовка"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/ielts-trainer",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Fiona Aish",
+        "Jo Tomlinson"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "IELTS Trainer",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "IELTS",
+        "Тесты",
+        "Подготовка"
+      ]
+    },
+    {
+      "id": "b2-english-pronunciation-in-use-intermediate",
+      "slug": "b2-english-pronunciation-in-use-intermediate",
+      "title": "English Pronunciation in Use (Intermediate)",
+      "description": "Системная работа над произношением: звуки, ударение, интонация.",
+      "cefrLevels": [
+        "B2"
+      ],
+      "tags": [
+        "Произношение",
+        "Аудио"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/pronunciationinuse",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Mark Hancock"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "English Pronunciation in Use",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Произношение",
+        "Аудио"
+      ]
+    },
+    {
+      "id": "c1-advanced-grammar-in-use-book-with-answers",
+      "slug": "c1-advanced-grammar-in-use-book-with-answers",
+      "title": "Advanced Grammar in Use (Book with Answers)",
+      "description": "Полный справочник продвинутой грамматики. Более 100 юнитов с упражнениями.",
+      "cefrLevels": [
+        "C1"
+      ],
+      "tags": [
+        "Грамматика",
+        "Must-have",
+        "C1-C2"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/advancedgrammarinuse",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Martin Hewings"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "Advanced Grammar in Use",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Грамматика",
+        "Must-have",
+        "C1-C2"
+      ]
+    },
+    {
+      "id": "c1-english-idioms-in-use-advanced",
+      "slug": "c1-english-idioms-in-use-advanced",
+      "title": "English Idioms in Use (Advanced)",
+      "description": "Более 1000 идиом в контексте. Для естественной речи на высоком уровне.",
+      "cefrLevels": [
+        "C1"
+      ],
+      "tags": [
+        "Идиомы",
+        "Продвинутый"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/idiomsinuse",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Felicity O'Dell",
+        "Michael McCarthy"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "English Idioms in Use",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Идиомы",
+        "Продвинутый"
+      ]
+    },
+    {
+      "id": "c1-vocabulary-in-use-advanced",
+      "slug": "c1-vocabulary-in-use-advanced",
+      "title": "Vocabulary in Use (Advanced)",
+      "description": "Академическая и профессиональная лексика для продвинутых.",
+      "cefrLevels": [
+        "C1"
+      ],
+      "tags": [
+        "Лексика",
+        "Академический"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/vocabularyinuse",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Michael McCarthy",
+        "Felicity O'Dell"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "Vocabulary in Use",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Лексика",
+        "Академический"
+      ]
+    },
+    {
+      "id": "c1-objective-ielts-advanced",
+      "slug": "c1-objective-ielts-advanced",
+      "title": "Objective IELTS Advanced",
+      "description": "Комплексная подготовка к IELTS для целевого балла 7.0–8.0.",
+      "cefrLevels": [
+        "C1"
+      ],
+      "tags": [
+        "IELTS",
+        "Подготовка",
+        "C1"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/objectiveielts",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Annette Capel",
+        "Wendy Sharp"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "Objective IELTS",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "IELTS",
+        "Подготовка",
+        "C1"
+      ]
+    },
+    {
+      "id": "c2-cambridge-english-proficiency-cpe-masterclass",
+      "slug": "c2-cambridge-english-proficiency-cpe-masterclass",
+      "title": "Cambridge English Proficiency (CPE) Masterclass",
+      "description": "Полная подготовка к самому сложному кембриджскому экзамену.",
+      "cefrLevels": [
+        "C2"
+      ],
+      "tags": [
+        "CPE",
+        "Экзамен",
+        "Продвинутый"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.oup.com/elt",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Simon Haines",
+        "Barbara Stewart"
+      ],
+      "publisher": "Oxford University Press",
+      "series": "Cambridge English Proficiency Masterclass",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "CPE",
+        "Экзамен",
+        "Продвинутый"
+      ]
+    },
+    {
+      "id": "c2-practical-english-usage",
+      "slug": "c2-practical-english-usage",
+      "title": "Practical English Usage",
+      "description": "Библия английского языка. Энциклопедический справочник по всем тонкостям.",
+      "cefrLevels": [
+        "C2"
+      ],
+      "tags": [
+        "Справочник",
+        "Must-have",
+        "Библия"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.oup.com/elt/catalogue/isbn/9780194202432",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Michael Swan"
+      ],
+      "publisher": "Oxford University Press",
+      "series": "Practical English Usage",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Справочник",
+        "Must-have",
+        "Библия"
+      ]
+    },
+    {
+      "id": "c2-the-cambridge-grammar-of-the-english-language",
+      "slug": "c2-the-cambridge-grammar-of-the-english-language",
+      "title": "The Cambridge Grammar of the English Language",
+      "description": "Академическая грамматика для лингвистов и филологов. Максимальная глубина.",
+      "cefrLevels": [
+        "C2"
+      ],
+      "tags": [
+        "Академический",
+        "Глубокий",
+        "Лингвистика"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridge.org/cgel",
+      "linkCheckedAt": "2026-08-13",
+      "verifiedAt": "2026-08-13",
+      "authors": [
+        "Rodney Huddleston",
+        "Geoffrey K. Pullum"
+      ],
+      "publisher": "Cambridge University Press & Assessment",
+      "series": "The Cambridge Grammar of the English Language",
+      "format": "Учебник или справочник",
+      "purpose": [
+        "Академический",
+        "Глубокий",
+        "Лингвистика"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "resource-grammarly",
+      "slug": "resource-grammarly",
+      "title": "Grammarly",
+      "description": "Автоматическая проверка грамматики и стиля. Помогает писать лучше каждый день.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Грамматика"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.grammarly.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "grammar",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-perfect-english-grammar",
+      "slug": "resource-perfect-english-grammar",
+      "title": "Perfect English Grammar",
+      "description": "Бесплатные уроки грамматики с упражнениями. Более 500 страниц материалов.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Грамматика"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.perfect-english-grammar.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "grammar",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-englishclub",
+      "slug": "resource-englishclub",
+      "title": "EnglishClub",
+      "description": "Комплексный ресурс: грамматика, лексика, произношение, тесты.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Грамматика"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.englishclub.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "grammar",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-breaking-news-english",
+      "slug": "resource-breaking-news-english",
+      "title": "Breaking News English",
+      "description": "Уроки на основе свежих новостей. 7 уровней сложности, аудио, упражнения.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Чтение"
+      ],
+      "access": "free",
+      "officialUrl": "https://breakingnewsenglish.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "reading",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-bbc-learning-english",
+      "slug": "resource-bbc-learning-english",
+      "title": "BBC Learning English",
+      "description": "Качественные материалы от BBC: видео, аудио, статьи, квизы, подкасты.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Чтение"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.bbc.co.uk/learningenglish",
+      "linkCheckedAt": "2026-08-13",
+      "category": "reading",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-project-gutenberg",
+      "slug": "resource-project-gutenberg",
+      "title": "Project Gutenberg",
+      "description": "Более 70 000 бесплатных книг на английском. Классика литературы для чтения.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Чтение"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.gutenberg.org",
+      "linkCheckedAt": "2026-08-13",
+      "category": "reading",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-ted-talks",
+      "slug": "resource-ted-talks",
+      "title": "TED Talks",
+      "description": "Вдохновляющие доклады с субтитрами. Огромный выбор тем и спикеров.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Слушание"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.ted.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "listening",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-bbc-6-minute-english",
+      "slug": "resource-bbc-6-minute-english",
+      "title": "BBC 6 Minute English",
+      "description": "Короткие подкасты на разные темы. Идеально для ежедневного прослушивания.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Слушание"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english",
+      "linkCheckedAt": "2026-08-13",
+      "category": "listening",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-youtube-english-with-lucy-rachel-s-english",
+      "slug": "resource-youtube-english-with-lucy-rachel-s-english",
+      "title": "YouTube (English with Lucy / Rachel's English)",
+      "description": "Бесплатные видеоуроки от лучших преподавателей. Произношение, грамматика, лексика.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Слушание"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.youtube.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "listening",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-tandem",
+      "slug": "resource-tandem",
+      "title": "Tandem",
+      "description": "Языковой обмен с носителями. Общайтесь в чате или по видеосвязи.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Общение"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.tandem.net",
+      "linkCheckedAt": "2026-08-13",
+      "category": "speaking",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-hellotalk",
+      "slug": "resource-hellotalk",
+      "title": "HelloTalk",
+      "description": "Приложение для языкового обмена. Исправления от носителей в реальном времени.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Общение"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.hellotalk.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "speaking",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-cambly",
+      "slug": "resource-cambly",
+      "title": "Cambly",
+      "description": "Уроки с профессиональными преподавателями-носителями 24/7.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Общение"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambly.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "speaking",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-cambridge-dictionary",
+      "slug": "resource-cambridge-dictionary",
+      "title": "Cambridge Dictionary",
+      "description": "Лучший словарь для изучающих английский. Примеры, коллокации, произношение.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Словари"
+      ],
+      "access": "free",
+      "officialUrl": "https://dictionary.cambridge.org",
+      "linkCheckedAt": "2026-08-13",
+      "category": "dictionary",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-thesaurus-com",
+      "slug": "resource-thesaurus-com",
+      "title": "Thesaurus.com",
+      "description": "Словарь синонимов. Расширяйте словарный запас, находя подходящие слова.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Словари"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.thesaurus.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "dictionary",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-wordreference",
+      "slug": "resource-wordreference",
+      "title": "WordReference",
+      "description": "Отличный двуязычный словарь с форумом для сложных вопросов.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Словари"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.wordreference.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "dictionary",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-quizlet",
+      "slug": "resource-quizlet",
+      "title": "Quizlet",
+      "description": "Карточки для запоминания слов. Создавайте свои колоды или используйте готовые.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Тренировки"
+      ],
+      "access": "free",
+      "officialUrl": "https://quizlet.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "practice",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-anki",
+      "slug": "resource-anki",
+      "title": "Anki",
+      "description": "Интервальное повторение — научный метод запоминания. Бесплатно на ПК.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Тренировки"
+      ],
+      "access": "free",
+      "officialUrl": "https://apps.ankiweb.net",
+      "linkCheckedAt": "2026-08-13",
+      "category": "practice",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-elsa-speak",
+      "slug": "resource-elsa-speak",
+      "title": "Elsa Speak",
+      "description": "ИИ-приложение для тренировки произношения. Распознаёт ошибки и помогает исправить.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Произношение"
+      ],
+      "access": "paid",
+      "officialUrl": "https://elsaspeak.com",
+      "linkCheckedAt": "2026-08-13",
+      "category": "pronunciation",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-ielts-org",
+      "slug": "resource-ielts-org",
+      "title": "IELTS.org",
+      "description": "Официальный сайт IELTS. Бесплатные образцы тестов и советы по подготовке.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Экзамены"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.ielts.org",
+      "linkCheckedAt": "2026-08-13",
+      "category": "exams",
+      "verifiedAt": "2026-08-13"
+    },
+    {
+      "id": "resource-cambridge-english",
+      "slug": "resource-cambridge-english",
+      "title": "Cambridge English",
+      "description": "Официальный сайт кембриджских экзаменов. Бесплатные материалы для подготовки.",
+      "cefrLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "Экзамены"
+      ],
+      "access": "free",
+      "officialUrl": "https://www.cambridgeenglish.org",
+      "linkCheckedAt": "2026-08-13",
+      "category": "exams",
+      "verifiedAt": "2026-08-13"
+    }
+  ],
+  "examGuides": [
+    {
+      "id": "ielts",
+      "slug": "ielts",
+      "title": "IELTS",
+      "officialName": "International English Language Testing System",
+      "description": "Международный экзамен для учёбы, работы и миграции.",
+      "cefrLevels": [
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "международный",
+        "учёба",
+        "миграция"
+      ],
+      "access": "paid",
+      "officialUrl": "https://ielts.org/",
+      "linkCheckedAt": "2026-08-13",
+      "organization": "British Council, IDP Education и Cambridge University Press & Assessment",
+      "parts": [
+        "Listening",
+        "Reading",
+        "Writing",
+        "Speaking"
+      ],
+      "preparationStrategy": [
+        {
+          "phase": "Диагностика",
+          "focus": "Определите стартовый уровень и целевой band score."
+        },
+        {
+          "phase": "База",
+          "focus": "Закройте пробелы в грамматике и академической лексике."
+        },
+        {
+          "phase": "Формат",
+          "focus": "Разберите типы заданий и критерии оценивания."
+        },
+        {
+          "phase": "Репетиция",
+          "focus": "Выполняйте полные варианты в условиях экзамена."
+        }
+      ],
+      "officialMaterials": [
+        {
+          "title": "Официальный сайт IELTS",
+          "url": "https://ielts.org/"
+        }
+      ]
+    },
+    {
+      "id": "toefl",
+      "slug": "toefl",
+      "title": "TOEFL iBT",
+      "officialName": "Test of English as a Foreign Language iBT",
+      "description": "Академический экзамен для поступления в зарубежные вузы.",
+      "cefrLevels": [
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "академический",
+        "поступление"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.ets.org/toefl.html",
+      "linkCheckedAt": "2026-08-13",
+      "organization": "ETS",
+      "parts": [
+        "Reading",
+        "Listening",
+        "Speaking",
+        "Writing"
+      ],
+      "preparationStrategy": [
+        {
+          "phase": "Диагностика",
+          "focus": "Сопоставьте текущий уровень с целевым баллом."
+        },
+        {
+          "phase": "Академическая база",
+          "focus": "Тренируйте лексику, конспектирование и работу с лекциями."
+        },
+        {
+          "phase": "Интегрированные задания",
+          "focus": "Связывайте чтение, аудирование и устный или письменный ответ."
+        },
+        {
+          "phase": "Репетиция",
+          "focus": "Отрабатывайте темп и стратегию на полных тестах."
+        }
+      ],
+      "officialMaterials": [
+        {
+          "title": "Официальный сайт TOEFL",
+          "url": "https://www.ets.org/toefl.html"
+        }
+      ]
+    },
+    {
+      "id": "cambridge-english",
+      "slug": "cambridge",
+      "title": "Cambridge English",
+      "officialName": "Cambridge English Qualifications",
+      "description": "Линейка квалификационных экзаменов B1 Preliminary, B2 First, C1 Advanced и C2 Proficiency.",
+      "cefrLevels": [
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
+      "tags": [
+        "кембриджский",
+        "квалификация"
+      ],
+      "access": "paid",
+      "officialUrl": "https://www.cambridgeenglish.org/exams-and-tests/",
+      "linkCheckedAt": "2026-08-13",
+      "organization": "Cambridge University Press & Assessment",
+      "parts": [
+        "Reading and Use of English",
+        "Writing",
+        "Listening",
+        "Speaking"
+      ],
+      "preparationStrategy": [
+        {
+          "phase": "Выбор уровня",
+          "focus": "Выберите экзамен по официальным sample tests."
+        },
+        {
+          "phase": "Языковая база",
+          "focus": "Систематизируйте грамматику, word formation и collocations."
+        },
+        {
+          "phase": "Формат",
+          "focus": "Отработайте каждую часть и критерии writing/speaking."
+        },
+        {
+          "phase": "Репетиция",
+          "focus": "Решайте официальные пробные варианты."
+        }
+      ],
+      "officialMaterials": [
+        {
+          "title": "Официальный каталог экзаменов",
+          "url": "https://www.cambridgeenglish.org/exams-and-tests/"
+        }
+      ]
+    }
+  ]
+}

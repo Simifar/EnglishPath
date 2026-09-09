@@ -1,0 +1,6 @@
+'use client';
+
+import { Heart } from 'lucide-react';
+import { useState } from 'react';
+import { useFavorites } from '@/hooks/useFavorites';
+export function FavoritesButton({ contentId, className = '' }: { contentId: string; className?: string }) { const { isFavorite, toggleFavorite, ready, persistent } = useFavorites(); const [message, setMessage] = useState(''); const selected = isFavorite(contentId); const label = selected ? 'В избранном' : 'В избранное'; const handleClick = () => { toggleFavorite(contentId); setMessage(selected ? 'Материал удалён из избранного' : 'Материал добавлен в избранное'); window.setTimeout(() => setMessage(''), 2500); }; return <span className="relative inline-flex"><button type="button" disabled={!ready} aria-pressed={selected} aria-label={label} onClick={handleClick} className={`inline-flex items-center gap-2 rounded-md border px-3 py-2 text-sm font-medium transition-colors duration-150 hover:bg-accent focus-visible:ring-2 ${className}`}><Heart aria-hidden="true" className={`h-4 w-4 ${selected ? 'fill-current text-primary' : ''}`} />{label}</button>{!persistent && <span className="sr-only">Изменения доступны только до перезагрузки страницы.</span>}{message && <span role="status" className="sr-only">{message}</span>}</span>; }

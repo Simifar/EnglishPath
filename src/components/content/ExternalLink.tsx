@@ -1,0 +1,2 @@
+import { ExternalLink as ExternalLinkIcon } from 'lucide-react';
+export function ExternalLink({ href, children, className = '' }: { href: string; children: React.ReactNode; className?: string }) { return <a href={href} target="_blank" rel="noreferrer" className={`inline-flex items-center gap-1 focus-visible:ring-2 focus-visible:ring-ring ${className}`}>{children}<ExternalLinkIcon aria-hidden="true" className="h-3.5 w-3.5" /><span className="sr-only"> (откроется в новой вкладке)</span></a>; }

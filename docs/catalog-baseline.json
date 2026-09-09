@@ -1,0 +1,308 @@
+[
+  {
+    "collection": "levels",
+    "id": "a1",
+    "slug": "a1",
+    "url": "/plans/a1"
+  },
+  {
+    "collection": "levels",
+    "id": "a2",
+    "slug": "a2",
+    "url": "/plans/a2"
+  },
+  {
+    "collection": "levels",
+    "id": "b1",
+    "slug": "b1",
+    "url": "/plans/b1"
+  },
+  {
+    "collection": "levels",
+    "id": "b2",
+    "slug": "b2",
+    "url": "/plans/b2"
+  },
+  {
+    "collection": "levels",
+    "id": "c1",
+    "slug": "c1",
+    "url": "/plans/c1"
+  },
+  {
+    "collection": "levels",
+    "id": "c2",
+    "slug": "c2",
+    "url": "/plans/c2"
+  },
+  {
+    "collection": "textbooks",
+    "id": "a1-english-file-beginner",
+    "slug": "a1-english-file-beginner",
+    "url": "/textbooks/a1-english-file-beginner"
+  },
+  {
+    "collection": "textbooks",
+    "id": "a1-face2face-elementary",
+    "slug": "a1-face2face-elementary",
+    "url": "/textbooks/a1-face2face-elementary"
+  },
+  {
+    "collection": "textbooks",
+    "id": "a1-round-up-1-student-s-book",
+    "slug": "a1-round-up-1-student-s-book",
+    "url": "/textbooks/a1-round-up-1-student-s-book"
+  },
+  {
+    "collection": "textbooks",
+    "id": "a1-streamline-english-departures",
+    "slug": "a1-streamline-english-departures",
+    "url": "/textbooks/a1-streamline-english-departures"
+  },
+  {
+    "collection": "textbooks",
+    "id": "a2-english-file-pre-intermediate",
+    "slug": "a2-english-file-pre-intermediate",
+    "url": "/textbooks/a2-english-file-pre-intermediate"
+  },
+  {
+    "collection": "textbooks",
+    "id": "a2-english-grammar-in-use-red-essential",
+    "slug": "a2-english-grammar-in-use-red-essential",
+    "url": "/textbooks/a2-english-grammar-in-use-red-essential"
+  },
+  {
+    "collection": "textbooks",
+    "id": "a2-speakout-pre-intermediate",
+    "slug": "a2-speakout-pre-intermediate",
+    "url": "/textbooks/a2-speakout-pre-intermediate"
+  },
+  {
+    "collection": "textbooks",
+    "id": "b1-english-grammar-in-use-blue",
+    "slug": "b1-english-grammar-in-use-blue",
+    "url": "/textbooks/b1-english-grammar-in-use-blue"
+  },
+  {
+    "collection": "textbooks",
+    "id": "b1-english-file-intermediate",
+    "slug": "b1-english-file-intermediate",
+    "url": "/textbooks/b1-english-file-intermediate"
+  },
+  {
+    "collection": "textbooks",
+    "id": "b1-vocabulary-in-use-intermediate",
+    "slug": "b1-vocabulary-in-use-intermediate",
+    "url": "/textbooks/b1-vocabulary-in-use-intermediate"
+  },
+  {
+    "collection": "textbooks",
+    "id": "b1-outcomes-intermediate",
+    "slug": "b1-outcomes-intermediate",
+    "url": "/textbooks/b1-outcomes-intermediate"
+  },
+  {
+    "collection": "textbooks",
+    "id": "b2-advanced-grammar-in-use",
+    "slug": "b2-advanced-grammar-in-use",
+    "url": "/textbooks/b2-advanced-grammar-in-use"
+  },
+  {
+    "collection": "textbooks",
+    "id": "b2-english-collocations-in-use-intermediate",
+    "slug": "b2-english-collocations-in-use-intermediate",
+    "url": "/textbooks/b2-english-collocations-in-use-intermediate"
+  },
+  {
+    "collection": "textbooks",
+    "id": "b2-ielts-trainer-b2",
+    "slug": "b2-ielts-trainer-b2",
+    "url": "/textbooks/b2-ielts-trainer-b2"
+  },
+  {
+    "collection": "textbooks",
+    "id": "b2-english-pronunciation-in-use-intermediate",
+    "slug": "b2-english-pronunciation-in-use-intermediate",
+    "url": "/textbooks/b2-english-pronunciation-in-use-intermediate"
+  },
+  {
+    "collection": "textbooks",
+    "id": "c1-advanced-grammar-in-use-book-with-answers",
+    "slug": "c1-advanced-grammar-in-use-book-with-answers",
+    "url": "/textbooks/c1-advanced-grammar-in-use-book-with-answers"
+  },
+  {
+    "collection": "textbooks",
+    "id": "c1-english-idioms-in-use-advanced",
+    "slug": "c1-english-idioms-in-use-advanced",
+    "url": "/textbooks/c1-english-idioms-in-use-advanced"
+  },
+  {
+    "collection": "textbooks",
+    "id": "c1-vocabulary-in-use-advanced",
+    "slug": "c1-vocabulary-in-use-advanced",
+    "url": "/textbooks/c1-vocabulary-in-use-advanced"
+  },
+  {
+    "collection": "textbooks",
+    "id": "c1-objective-ielts-advanced",
+    "slug": "c1-objective-ielts-advanced",
+    "url": "/textbooks/c1-objective-ielts-advanced"
+  },
+  {
+    "collection": "textbooks",
+    "id": "c2-cambridge-english-proficiency-cpe-masterclass",
+    "slug": "c2-cambridge-english-proficiency-cpe-masterclass",
+    "url": "/textbooks/c2-cambridge-english-proficiency-cpe-masterclass"
+  },
+  {
+    "collection": "textbooks",
+    "id": "c2-practical-english-usage",
+    "slug": "c2-practical-english-usage",
+    "url": "/textbooks/c2-practical-english-usage"
+  },
+  {
+    "collection": "textbooks",
+    "id": "c2-the-cambridge-grammar-of-the-english-language",
+    "slug": "c2-the-cambridge-grammar-of-the-english-language",
+    "url": "/textbooks/c2-the-cambridge-grammar-of-the-english-language"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-grammarly",
+    "slug": "resource-grammarly",
+    "url": "/resources/resource-grammarly"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-perfect-english-grammar",
+    "slug": "resource-perfect-english-grammar",
+    "url": "/resources/resource-perfect-english-grammar"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-englishclub",
+    "slug": "resource-englishclub",
+    "url": "/resources/resource-englishclub"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-breaking-news-english",
+    "slug": "resource-breaking-news-english",
+    "url": "/resources/resource-breaking-news-english"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-bbc-learning-english",
+    "slug": "resource-bbc-learning-english",
+    "url": "/resources/resource-bbc-learning-english"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-project-gutenberg",
+    "slug": "resource-project-gutenberg",
+    "url": "/resources/resource-project-gutenberg"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-ted-talks",
+    "slug": "resource-ted-talks",
+    "url": "/resources/resource-ted-talks"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-bbc-6-minute-english",
+    "slug": "resource-bbc-6-minute-english",
+    "url": "/resources/resource-bbc-6-minute-english"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-youtube-english-with-lucy-rachel-s-english",
+    "slug": "resource-youtube-english-with-lucy-rachel-s-english",
+    "url": "/resources/resource-youtube-english-with-lucy-rachel-s-english"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-tandem",
+    "slug": "resource-tandem",
+    "url": "/resources/resource-tandem"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-hellotalk",
+    "slug": "resource-hellotalk",
+    "url": "/resources/resource-hellotalk"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-cambly",
+    "slug": "resource-cambly",
+    "url": "/resources/resource-cambly"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-cambridge-dictionary",
+    "slug": "resource-cambridge-dictionary",
+    "url": "/resources/resource-cambridge-dictionary"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-thesaurus-com",
+    "slug": "resource-thesaurus-com",
+    "url": "/resources/resource-thesaurus-com"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-wordreference",
+    "slug": "resource-wordreference",
+    "url": "/resources/resource-wordreference"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-quizlet",
+    "slug": "resource-quizlet",
+    "url": "/resources/resource-quizlet"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-anki",
+    "slug": "resource-anki",
+    "url": "/resources/resource-anki"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-elsa-speak",
+    "slug": "resource-elsa-speak",
+    "url": "/resources/resource-elsa-speak"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-ielts-org",
+    "slug": "resource-ielts-org",
+    "url": "/resources/resource-ielts-org"
+  },
+  {
+    "collection": "resources",
+    "id": "resource-cambridge-english",
+    "slug": "resource-cambridge-english",
+    "url": "/resources/resource-cambridge-english"
+  },
+  {
+    "collection": "exams",
+    "id": "ielts",
+    "slug": "ielts",
+    "url": "/exams/ielts"
+  },
+  {
+    "collection": "exams",
+    "id": "toefl",
+    "slug": "toefl",
+    "url": "/exams/toefl"
+  },
+  {
+    "collection": "exams",
+    "id": "cambridge-english",
+    "slug": "cambridge",
+    "url": "/exams/cambridge"
+  }
+]
